@@ -13,3 +13,5 @@ end
 
 
 #array.each {|element| array[-1] << "and"}
+
+#review last two tests
